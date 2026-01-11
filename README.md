@@ -17,7 +17,6 @@ This project demonstrates the basics of **routing**, **templates**, and **runnin
 - Debug mode enabled for development
 
 ---
-
 ## 🛠 Technologies Used
 
 - **Python 3**
