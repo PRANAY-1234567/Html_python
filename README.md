@@ -16,7 +16,7 @@ This project demonstrates the basics of **routing**, **templates**, and **runnin
 - Renders an HTML page using Jinja2 templates
 - Debug mode enabled for development
 
----
+---------------------------------------------
 ## 🛠 Technologies Used
 
 - **Python 3**
