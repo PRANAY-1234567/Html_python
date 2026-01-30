@@ -23,7 +23,7 @@ This project demonstrates the basics of **routing**, **templates**, and **runnin
 - **Flask**
 - **HTML**
 
----
+--------------------------------
 
 ## 📂 Project Structure
 
