@@ -7,7 +7,7 @@ Backend Development using Python
 A simple **Flask web application** that renders an HTML page using Flask’s `render_template()` method.  
 This project demonstrates the basics of **routing**, **templates**, and **running a Flask server**.
 
----
+-----------------------------------------------
 
 ## 🚀 Features
 
