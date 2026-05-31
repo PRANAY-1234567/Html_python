@@ -28,4 +28,3 @@ This project demonstrates the basics of **routing**, **templates**, and **runnin
 --------------------------------
 
 ## 📂 Project Structure
-
